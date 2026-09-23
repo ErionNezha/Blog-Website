@@ -33,7 +33,7 @@ Një faqe blogu elegante dhe e thjeshtë në përdorim, e përshtatur plotësish
 
 ## Licenca
 
-Ky projekt është i licencuar nën licencën MIT — shiko skedarin [LICENSE](LICENSE) për detaje.
+Të gjitha të drejtat e rezervuara © 2026 Erion Nezha — shiko skedarin [LICENSE](LICENSE) për detaje.
 
 ---
 
@@ -72,4 +72,4 @@ An elegant, easy-to-use blog page, fully localized in Albanian. It includes:
 
 ## License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+All rights reserved © 2026 Erion Nezha — see the [LICENSE](LICENSE) file for details.
